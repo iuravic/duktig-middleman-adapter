@@ -1,10 +1,25 @@
 {
     "name": "iuravic/duktig-middleman-adapter",
     "type": "library",
-    "authors": [
-        {"name": "Ivan Uravić", "email": "iuravic@gmail.com"}
+    "description": "Middleman middleware dispatcher adapter for Duktig MVC micro web framework",
+    "keywords": [
+        "Duktig",
+        "framework",
+        "adapter",
+        "Middleman",
+        "middleware",
+        "dispatcher"
     ],
-    "license": ["MIT"],
+    "homepage": "https://github.com/iuravic/duktig-middleman-adapter",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Ivan Uravić",
+            "email": "iuravic@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
