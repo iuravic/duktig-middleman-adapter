@@ -6,6 +6,7 @@
     ],
     "license": ["MIT"],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php" : "^7.1",
         "mindplay/middleman": "3.0.0.x-dev",
