@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iuravic/duktig-middleman-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-middleman-adapter)
+[![Build Status](https://travis-ci.org/iuravic/duktig-middleman-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-middleman-adapter) [![Coverage Status](https://coveralls.io/repos/github/iuravic/duktig-middleman-adapter/badge.svg?branch=master)](https://coveralls.io/github/iuravic/duktig-middleman-adapter?branch=master)
 
 # duktig-middleman-adapter
 
